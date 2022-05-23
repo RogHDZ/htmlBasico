@@ -247,34 +247,19 @@ footer .contacto .formulario .boton:hover {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*me equivoque de video e hize esto pero no lo quiero volver a escribir*/
 footer .redes-sociales {
     background:  #1e2b38;
     padding: 60px 0;
 }
 
-footer .contenedor {
+footer .redes-sociales .contenedor {
     display: flex;
     justify-content: center;
 }
 
+
 footer .redes-sociales a {
-    color: fff;
+    color: #fff;
     text-align: center;
     width: 100px;
     display: block;
@@ -285,8 +270,8 @@ footer .redes-sociales a {
 
 }
 
-footer .redes-sociales .twitter:hover { background: 1da1f2;}
-footer .redes-sociales .facebook:hover { background: 1877f2;}
-footer .redes-sociales .instagram:hover { background: e1306c;}
-footer .redes-sociales .github:hover { background: 333;}
-footer .redes-sociales .youtube:hover { background: ff0000;}
+footer .redes-sociales .twitter:hover { background: #1da1f2;}
+footer .redes-sociales .facebook:hover { background: #1877f2;}
+footer .redes-sociales .instagram:hover { background: #e1306c;}
+footer .redes-sociales .github:hover { background: #333;}
+footer .redes-sociales .youtube:hover { background: #ff0000;}
