@@ -228,7 +228,7 @@ footer .contacto .formulario textarea {
     min-width: 100%;
     max-width: 100%;
     min-height: 100px;
-    max-width: 300px;
+    max-height: 300px;
     margin-bottom: 15px;
 }
     
@@ -296,6 +296,7 @@ footer .redes-sociales .youtube:hover { background: #ff0000;}
     }
     footer .redes-sociales .contenedor {
         flex-wrap: wrap;
+        padding: 20px 0;
     }
 }
 
